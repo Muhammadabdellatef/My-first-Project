@@ -1,0 +1,88 @@
+
+.main{              background-color:	#91899D }
+
+#HOME{  
+                    background-image: url('images/pic7.jpg');
+                    background-position: center;
+                    background-repeat: no-repeat;
+                    background-size:cover;
+                    background-attachment: fixed;
+                    width:100%;
+                    height:500px;}
+                   
+
+.bu{             
+                    background-color: ivory;
+                    border-bottom-width: thick;
+                    color: navy;}
+    
+
+
+ul{                 list-style-type: none;
+                    margin: 0;
+                    padding:0;
+                    overflow: hidden;
+                    background-color: #f2f2f2;}
+                   
+
+li{                 float: left}
+
+
+li a{               display: block;
+                    color: black;
+                    text-align: center;
+                    padding: 14px 20px;
+                    text-decoration: none;
+                    height: 40px;}
+    
+
+    
+li a:hover {        background-color:#2E6AA4}
+
+
+.span{              font-family: 'Lateef', cursive;
+                    font-size: 40px;
+                    font-style: italic;
+                    font-variant: small-caps;}
+
+#About{             background-color: #E6E6E6    } 
+
+
+p{                  color: #151515}
+
+#name{              width: 25%;
+                    padding: 10px;
+                    border: 2px solid #08088A;
+                    border-radius: 15px;
+     }
+        
+
+#pass{              width: 25%;
+                    padding: 10px;
+                    border: 2px solid #08088A;
+                    border-radius: 15px;}
+
+#email {             width: 25%;
+                    padding: 10px;
+                    border: 2px solid #08088A;
+                    border-radius: 15px;}
+
+
+
+.se{                background-color: lightskyblue;
+                    border-bottom-width: thick;
+                    color: saddlebrown;}
+                            
+.can {              background-color: lightskyblue;
+                    border-bottom-width: thick;
+                    color: saddlebrown;}   
+    
+
+.text{              border-color: #08088A;
+                    border-bottom-style: solid;
+                    border-radius: 15px;
+                    border-width: medium}
+
+
+ .icons{            color: darkblue }
+
