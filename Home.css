@@ -1,0 +1,64 @@
+body
+{
+    background-color:#EAE4E4;
+    overflow-x: hidden
+}
+
+ul
+{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    position: relative;
+    left: 47%;
+    top: 190px;
+    font-size: 19px;
+   
+}
+
+li
+{
+    float: left;
+    
+}
+
+li a
+{
+    display: block;
+    color: black;
+    
+    padding: 0px 16px;
+    height: 30px;
+    text-decoration: none;
+    color: #4D4C4A
+}
+
+ a:hover
+{
+   color:#5ED0D7
+}
+
+footer
+{
+    border: none solid;
+    background-color: #E73557;
+    padding:60px;
+    position: relative;
+    left: 80px;
+    width: 80%
+    
+}
+
+.contact
+{
+    position: relative;
+    left: 150px
+}
+
+
+
+
+
+
+
